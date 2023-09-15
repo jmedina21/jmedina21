@@ -1,7 +1,7 @@
 # Pablo Medina - Software Engineer
 
 
-Welcome to my GitHub profile! I'm Pablo Medina, a passionate Software Engineer based in New York. I have a unique background, having transitioned from a career in medicine to software engineering. I'm excited to share my journey, experiences, and code with the GitHub community.
+Welcome to my GitHub profile! I'm Pablo Medina, a passionate Software Engineer based in New York. Coming from a diverse background, having transitioned from a career in medicine to software engineering. I'm excited to share my journey, experiences, and code with the GitHub community.
 
 ## About Me
 
@@ -24,9 +24,9 @@ I've had a diverse and adventurous journey to becoming a software engineer:
 
 You can connect with me on various platforms:
 
-- **GitHub:** [GitHub Profile](Link to GitHub Profile)
-- **LinkedIn:** [LinkedIn Profile](Link to LinkedIn Profile)
-- **Email:** your.email@example.com
+- **GitHub:** [GitHub Profile](https://github.com/jmedina21/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/pablo-medina-dev/)
+- **Email:** jmedinamulet@gmail.com
 
 ## Let's Collaborate
 
